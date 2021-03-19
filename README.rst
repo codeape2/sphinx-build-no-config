@@ -1,0 +1,1 @@
+`sphinx-build-no-config` is a convenient command line script to create html docs without creating a sphinx project.
